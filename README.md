@@ -1,5 +1,5 @@
 # CYT1001AG SMD LED DOB PCB
-5W SMD LED DOB using CYT1001AG High PF Linear Constant Current LED Driver IC chip to drive 2835 18V LEDs 
+6W SMD LED DOB using CYT1001AG High PF Linear Constant Current LED Driver IC chip to drive 2835 18V LEDs 
 
 Schematic from [manufacturer datasheet](https://github.com/smart-device/CYT1001AG-SMD-LED-DOB-PCB/blob/main/CYT1001AG.pdf)
 <img src="./CYT1001AGsch.jpg" />
