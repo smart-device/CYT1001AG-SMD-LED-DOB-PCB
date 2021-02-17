@@ -10,4 +10,4 @@ PCB Designed in Altium Designer
 PCB3D View
 <img src="./CYT1001AGpcb3d.png" />
 
-It can be used to build a cheap DIY low-power but efficient lamp.
+It can be used to build cheap DIY low-power but efficient lamps.
